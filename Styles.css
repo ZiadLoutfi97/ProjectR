@@ -1,6 +1,7 @@
 .h-text  {
     padding-top: 200px;
     margin-left:60px;
+    justify-content:center;
 }
 
 .h-animate .text {
